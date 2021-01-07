@@ -13,3 +13,13 @@
 - Notes: https://repl.it/@Robinnnnn1/2101-BCP-MO-Loops
 
 - Only Odds Workshop: https://repl.it/@Robinnnnn1/2101-BCP-MO-Loops-Only-Odds
+
+- Bacteria Time Workshop: https://repl.it/@Robinnnnn1/2101-BCP-NY-Loops-Workshop-Bacteria-Time ([video walkthrough](https://youtu.be/P-TGjO3HwEM))
+
+- My Slice Workshop: https://repl.it/@Robinnnnn1/2101-BCP-NY-Loops-Workshop-My-Slice#index.js ([video walkthrough](https://youtu.be/P-TGjO3HwEM))
+
+### 3) Coercion and Truthiness
+
+- Lecture: https://youtu.be/3zHbkCn-34g
+
+- Notes: https://repl.it/@Robinnnnn1/2101-BCP-NY-Coercion-and-Truthiness
