@@ -23,3 +23,13 @@
 - Lecture: https://youtu.be/3zHbkCn-34g
 
 - Notes: https://repl.it/@Robinnnnn1/2101-BCP-NY-Coercion-and-Truthiness
+
+- Zero Dark Thirty Workshop: https://repl.it/@Robinnnnn1/2101-BCP-NY-Coercion-and-Truthiness-Zero-Dark-Thirty ([video walkthrough](https://youtu.be/ZiOfx1LkfHY))
+
+### 4) REACTO, Caesar Cypher
+
+- Lecture: https://youtu.be/7iW-YIWr2sg
+
+- Num Vowels: https://repl.it/@Robinnnnn1/2101-BCP-NY-Reacto-Num-Vowels ([video walkthrough, starts in second half](https://youtu.be/7iW-YIWr2sg))
+
+- Caesar Cypher: https://repl.it/@Robinnnnn1/2101-BCP-NY-Caesar-Cypher
