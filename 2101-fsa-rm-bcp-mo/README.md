@@ -18,6 +18,8 @@
 
 - My Slice Workshop: https://repl.it/@Robinnnnn1/2101-BCP-NY-Loops-Workshop-My-Slice#index.js ([video walkthrough](https://youtu.be/P-TGjO3HwEM))
 
+- Most Vowels Workshop: https://repl.it/@Robinnnnn1/2101-BCP-NY-Loops-Workshop-Most-Vowels ([video walkthrough](https://youtu.be/Knogo2EeQkc))
+
 ### 3) Coercion and Truthiness
 
 - Lecture: https://youtu.be/3zHbkCn-34g
@@ -33,3 +35,9 @@
 - Num Vowels: https://repl.it/@Robinnnnn1/2101-BCP-NY-Reacto-Num-Vowels ([video walkthrough, starts in second half](https://youtu.be/7iW-YIWr2sg))
 
 - Caesar Cypher: https://repl.it/@Robinnnnn1/2101-BCP-NY-Caesar-Cypher
+
+### 5) Scope
+
+- Lecture: https://youtu.be/n1JpdUlVDJU
+
+- Notes: https://repl.it/@Robinnnnn1/2101-BCP-NY-Scope
