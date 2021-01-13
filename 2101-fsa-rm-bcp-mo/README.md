@@ -41,3 +41,9 @@
 - Lecture: https://youtu.be/n1JpdUlVDJU
 
 - Notes: https://repl.it/@Robinnnnn1/2101-BCP-NY-Scope
+
+### 6) Arrays I
+
+- Lecture: https://youtu.be/6h3Nr8iUXL0
+
+- Notes: https://repl.it/@Robinnnnn1/2101-BCP-NY-Arrays-I
