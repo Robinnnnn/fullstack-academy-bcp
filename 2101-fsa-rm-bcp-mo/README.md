@@ -47,3 +47,7 @@
 - Lecture: https://youtu.be/6h3Nr8iUXL0
 
 - Notes: https://repl.it/@Robinnnnn1/2101-BCP-NY-Arrays-I
+
+### 7) Arrays II
+
+-- removeColumns: https://repl.it/@farooqi1992/DraftySmugArea-1#index.js
