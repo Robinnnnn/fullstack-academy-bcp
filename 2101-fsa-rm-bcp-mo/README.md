@@ -50,4 +50,8 @@
 
 ### 7) Arrays II
 
--- removeColumns: https://repl.it/@farooqi1992/DraftySmugArea-1#index.js
+- removeColumns: https://repl.it/@farooqi1992/DraftySmugArea-1#index.js
+
+### 8) Objects I
+
+- Lecture: https://www.youtube.com/watch?v=-gQX57NEICw
